@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! Soy Alejandro Olguin 👋
 
-<!--
-**AlejandroOlguin-am/AlejandroOlguin-am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado de **resolver problemas mediante código**. Mi filosofía es simple: si tengo que hacer algo más de dos veces, busco la forma de automatizarlo. Me considero "productivamente perezoso", lo que me impulsa a integrar **IA Agéntica** en cada flujo de trabajo posible para que la tecnología trabaje por mí.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ En lo que estoy trabajando:
+- 🤖 **IA Agéntica:** Creación de agentes autónomos para automatización de tareas complejas.
+- 📱 **Mobile Dev:** Desarrollo de interfaces modernas y fluidas con Flutter.
+- 🔧 **Automatización:** Scripts y herramientas para eliminar tareas repetitivas.
+
+### 🚀 Stack & Herramientas:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+### 📫 Conéctate conmigo:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandroolguin-am)
+
+---
+*"Si es repetitivo, es automatizable. Si es automatizable, ya debería estar hecho por un agente."*
