@@ -9,15 +9,9 @@ Soy un apasionado de **resolver problemas mediante código**. Mi filosofía es s
 - 🔧 **Automation:** Scripts y herramientas para eliminar tareas repetitivas.
 - 📱 **Mobile Dev:** Desarrollo de interfaces modernas y fluidas con Flutter.
 
-### :zap: Actividad reciente
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-<!--RECENT_ACTIVITY:last_update-->
-
-<!--RECENT_ACTIVITY:last_update_end-->
-
+### ⏲ Actividad reciente
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 ### 🚀 Stack & Herramientas:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
