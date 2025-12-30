@@ -9,7 +9,7 @@ Soy un apasionado de **resolver problemas mediante código**. Mi filosofía es s
 - 🔧 **Automation:** Scripts y herramientas para eliminar tareas repetitivas.
 - 📱 **Mobile Dev:** Desarrollo de interfaces modernas y fluidas con Flutter.
 
-### ⏲ Actividad reciente
+### ⏲ Actividad reciente:
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 
