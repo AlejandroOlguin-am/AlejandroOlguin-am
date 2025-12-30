@@ -11,6 +11,11 @@ Soy un apasionado de **resolver problemas mediante código**. Mi filosofía es s
 
 ### ⏲ Actividad reciente:
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed undefined commit(s) to [AlejandroOlguin-am/AlejandroOlguin-am](https://github.com/AlejandroOlguin-am/AlejandroOlguin-am)<br>
+2. ⬆️ Pushed undefined commit(s) to [AlejandroOlguin-am/AlejandroOlguin-am](https://github.com/AlejandroOlguin-am/AlejandroOlguin-am)<br>
+3. ⬆️ Pushed undefined commit(s) to [AlejandroOlguin-am/AlejandroOlguin-am](https://github.com/AlejandroOlguin-am/AlejandroOlguin-am)<br>
+4. ⬆️ Pushed undefined commit(s) to [AlejandroOlguin-am/AlejandroOlguin-am](https://github.com/AlejandroOlguin-am/AlejandroOlguin-am)<br>
+5. ⬆️ Pushed undefined commit(s) to [AlejandroOlguin-am/files-gestor](https://github.com/AlejandroOlguin-am/files-gestor)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### 🚀 Stack & Herramientas:
