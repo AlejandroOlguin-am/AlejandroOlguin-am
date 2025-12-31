@@ -11,10 +11,10 @@ Soy un apasionado de **resolver problemas mediante código**. Mi filosofía es s
 
 ### ⏲ Actividad reciente:
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [AlejandroOlguin-am/AlejandroOlguin-am](https://github.com/AlejandroOlguin-am/AlejandroOlguin-am)<br>
-2. ⬆️ Pushed undefined commit(s) to [AlejandroOlguin-am/AlejandroOlguin-am](https://github.com/AlejandroOlguin-am/AlejandroOlguin-am)<br>
-3. ⬆️ Pushed undefined commit(s) to [AlejandroOlguin-am/AlejandroOlguin-am](https://github.com/AlejandroOlguin-am/AlejandroOlguin-am)<br>
-4. ⬆️ Pushed undefined commit(s) to [AlejandroOlguin-am/AlejandroOlguin-am](https://github.com/AlejandroOlguin-am/AlejandroOlguin-am)<br>
+1. ✌️ Released [v0.1.1](https://github.com/AlejandroOlguin-am/learnReleases/releases/tag/v0.1.1) in [AlejandroOlguin-am/learnReleases](https://github.com/AlejandroOlguin-am/learnReleases)<br>
+2. ⬆️ Pushed undefined commit(s) to [AlejandroOlguin-am/learnReleases](https://github.com/AlejandroOlguin-am/learnReleases)<br>
+3. ✌️ Released [v0.1.0](https://github.com/AlejandroOlguin-am/learnReleases/releases/tag/v0.1.0) in [AlejandroOlguin-am/learnReleases](https://github.com/AlejandroOlguin-am/learnReleases)<br>
+4. ⬆️ Pushed undefined commit(s) to [AlejandroOlguin-am/learnReleases](https://github.com/AlejandroOlguin-am/learnReleases)<br>
 5. ⬆️ Pushed undefined commit(s) to [AlejandroOlguin-am/files-gestor](https://github.com/AlejandroOlguin-am/files-gestor)<br>
 <!--RECENT_ACTIVITY:end-->
 
