@@ -12,10 +12,6 @@ Soy un apasionado de **resolver problemas mediante código**. Mi filosofía es s
 ### ⏲ Actividad reciente:
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [AlejandroOlguin-am/ai-document-extractor](https://github.com/AlejandroOlguin-am/ai-document-extractor)<br>
-2. ✌️ Released [v0.1.1](https://github.com/AlejandroOlguin-am/learnReleases/releases/tag/v0.1.1) in [AlejandroOlguin-am/learnReleases](https://github.com/AlejandroOlguin-am/learnReleases)<br>
-3. ⬆️ Pushed undefined commit(s) to [AlejandroOlguin-am/learnReleases](https://github.com/AlejandroOlguin-am/learnReleases)<br>
-4. ✌️ Released [v0.1.0](https://github.com/AlejandroOlguin-am/learnReleases/releases/tag/v0.1.0) in [AlejandroOlguin-am/learnReleases](https://github.com/AlejandroOlguin-am/learnReleases)<br>
-5. ⬆️ Pushed undefined commit(s) to [AlejandroOlguin-am/learnReleases](https://github.com/AlejandroOlguin-am/learnReleases)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### 🚀 Stack & Herramientas:
