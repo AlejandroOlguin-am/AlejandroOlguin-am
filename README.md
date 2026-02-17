@@ -11,6 +11,8 @@ Soy un apasionado de **resolver problemas mediante código**. Mi filosofía es s
 
 ### ⏲ Actividad reciente:
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed undefined commit(s) to [AlejandroOlguin-am/files-gestor](https://github.com/AlejandroOlguin-am/files-gestor)<br>
+2. 💪 Opened PR [#3](undefined) in [AlejandroOlguin-am/files-gestor](https://github.com/AlejandroOlguin-am/files-gestor)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### 🚀 Stack & Herramientas:
