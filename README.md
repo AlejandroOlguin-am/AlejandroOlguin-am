@@ -11,9 +11,10 @@ Soy un apasionado de **resolver problemas mediante código**. Mi filosofía es s
 
 ### ⏲ Actividad reciente:
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [JuanApazaG/Prime-Season](https://github.com/JuanApazaG/Prime-Season)<br>
-2. ⬆️ Pushed undefined commit(s) to [AlejandroOlguin-am/files-gestor](https://github.com/AlejandroOlguin-am/files-gestor)<br>
-3. 💪 Opened PR [#3](undefined) in [AlejandroOlguin-am/files-gestor](https://github.com/AlejandroOlguin-am/files-gestor)<br>
+1. ⬆️ Pushed undefined commit(s) to [AlejandroOlguin-am/files-gestor](https://github.com/AlejandroOlguin-am/files-gestor)<br>
+2. 🤝 Became collaborator on [JuanApazaG/Prime-Season](https://github.com/JuanApazaG/Prime-Season)<br>
+3. ⬆️ Pushed undefined commit(s) to [AlejandroOlguin-am/files-gestor](https://github.com/AlejandroOlguin-am/files-gestor)<br>
+4. 💪 Opened PR [#3](undefined) in [AlejandroOlguin-am/files-gestor](https://github.com/AlejandroOlguin-am/files-gestor)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ### 🚀 Stack & Herramientas:
